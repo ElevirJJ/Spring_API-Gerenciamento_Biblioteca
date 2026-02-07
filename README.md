@@ -1,5 +1,5 @@
 Neste projeto prático, aplico conceitos como injeção de dependência, transações, tratamento de exceções personalizadas e regras de negócio, implementando funcionalidades como cadastro de livros e autores, controle de estoque, empréstimos e devoluções.
-Esse projeto tem sido essencial para consolidar meu aprendizado em:
+Esse projeto tem sido essencial para consolidar meu aprendizado em::
 
 Spring Boot: Estrutura com controllers, serviços e repositórios.
 POO: Aplicação de encapsulamento, herança e polimorfismo.
